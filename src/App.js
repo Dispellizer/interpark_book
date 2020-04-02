@@ -11,13 +11,9 @@ class App extends React.Component {
   getBooks = async () => {
     const {
       data: { item }
-    } = await axios.get(
-      "http://book.interpark.com/api/bestSeller.api?key=A357E38C2115CC09DE15F987B12EBC11EF74E36B1011C46D2C53A56D7A710023&categoryId=100&output=json"
-    );
+    } = await axios.get("https://lhk3337.github.io/book_json/books.json");
     console.log(item);
-    setTimeout(() => {
-      this.setState({ books: item, isLoading: false });
-    }, 33);
+    this.setState({ books: item, isLoading: false });
   };
 
   componentDidMount() {
