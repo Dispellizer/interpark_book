@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/interpark_book/precache-manifest.2c1ef71052a4acd69e9b547b2b2c689e.js"
+  "/interpark_book/precache-manifest.cff5ff3d99b003c6fc8ffe519fe5d75e.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/interpark_book/static/css/main.7afbb0a1.chunk.css",
-    "main.js": "/interpark_book/static/js/main.b1c92710.chunk.js",
-    "main.js.map": "/interpark_book/static/js/main.b1c92710.chunk.js.map",
+    "main.js": "/interpark_book/static/js/main.7cd24300.chunk.js",
+    "main.js.map": "/interpark_book/static/js/main.7cd24300.chunk.js.map",
     "runtime-main.js": "/interpark_book/static/js/runtime-main.3b144027.js",
     "runtime-main.js.map": "/interpark_book/static/js/runtime-main.3b144027.js.map",
     "static/js/2.730e3387.chunk.js": "/interpark_book/static/js/2.730e3387.chunk.js",
     "static/js/2.730e3387.chunk.js.map": "/interpark_book/static/js/2.730e3387.chunk.js.map",
     "index.html": "/interpark_book/index.html",
-    "precache-manifest.2c1ef71052a4acd69e9b547b2b2c689e.js": "/interpark_book/precache-manifest.2c1ef71052a4acd69e9b547b2b2c689e.js",
+    "precache-manifest.cff5ff3d99b003c6fc8ffe519fe5d75e.js": "/interpark_book/precache-manifest.cff5ff3d99b003c6fc8ffe519fe5d75e.js",
     "service-worker.js": "/interpark_book/service-worker.js",
     "static/css/main.7afbb0a1.chunk.css.map": "/interpark_book/static/css/main.7afbb0a1.chunk.css.map",
     "static/js/2.730e3387.chunk.js.LICENSE.txt": "/interpark_book/static/js/2.730e3387.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.3b144027.js",
     "static/js/2.730e3387.chunk.js",
     "static/css/main.7afbb0a1.chunk.css",
-    "static/js/main.b1c92710.chunk.js"
+    "static/js/main.7cd24300.chunk.js"
   ]
 }

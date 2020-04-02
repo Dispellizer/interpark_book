@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "584761f7e25c3bf1c1522a44186602bc",
+    "revision": "308529d7ab8863c64ba74c2affe20f2d",
     "url": "/interpark_book/index.html"
   },
   {
-    "revision": "a2541dd8a86ae96b5bae",
+    "revision": "5ac90e157b64ea7801b0",
     "url": "/interpark_book/static/css/main.7afbb0a1.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/interpark_book/static/js/2.730e3387.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a2541dd8a86ae96b5bae",
-    "url": "/interpark_book/static/js/main.b1c92710.chunk.js"
+    "revision": "5ac90e157b64ea7801b0",
+    "url": "/interpark_book/static/js/main.7cd24300.chunk.js"
   },
   {
     "revision": "62bae104a5e18774a2c9",
